@@ -2,7 +2,7 @@ DevOps-PowerShell
 =================
 
 A collection of useful powerShell scripts to automate processes.
-![devOps powershell scripts](https://github.com/misterGF/DevOps-PowerShell/tree/master/assets/cogs.gif)
+![devOps powershell scripts](https://github.com/misterGF/DevOps-PowerShell/blob/master/assets/cogs.gif)
 
 * **Change SharePoint item owner in Office 365 - O365** - Script will login to SharePoint Online and parse the lists in the site. It then gathers the items and checks for the user specified in $originalUser. Once found it will update the appropriate values to change the modifyBy and author value based on what is in $newUser.
 
